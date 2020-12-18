@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="splash_intro">welcome to Protick</string>
+    <string name="login_title">Log in page</string>
+    <string name="username_login">Username</string>
+    <string name="password_login">Password</string>
+    <string name="username_hint">enter your username</string>
+    <string name="password_hint">enter your password</string>
+    <string name="button_login">login</string>
+    <string name="home_title">Home tasks</string>
+    <string name="detail_home">see more detail</string>
+</resources>
